@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+c:\users\rodrigo\documents\02. neurosky\eeg3\consoleapplication3\platform_defines.h(118): warning C4005: '_DEBUG': redefinição de macro
+  c:\users\rodrigo\documents\02. neurosky\eeg3\consoleapplication3\platform_defines.h(118): note: argumentos de linha de comando:  consulte a definição anterior de '_DEBUG'
+ConsoleApplication3.obj : error LNK2019: símbolo externo indefinido _TG_GetVersion referenciado na função _main
+ConsoleApplication3.obj : error LNK2019: símbolo externo indefinido _TG_GetNewConnectionId referenciado na função _main
+..\Libs\thinkgear64.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'X86'
+C:\Users\Rodrigo\Documents\02. Neurosky\EEG3\Debug\ConsoleApplication3.exe : fatal error LNK1120: 2 externo não resolvidos

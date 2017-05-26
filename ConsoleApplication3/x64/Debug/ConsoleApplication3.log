@@ -1,0 +1,17 @@
+﻿  ConsoleApplication3.cpp
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\platform_defines.h(118): warning C4005: '_DEBUG': redefinição de macro
+  c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\platform_defines.h(118): note: argumentos de linha de comando:  consulte a definição anterior de '_DEBUG'
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: consulte a declaração de 'strcpy'
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: consulte a declaração de 'strcpy'
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(205): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: consulte a declaração de '_sleep'
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(331): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(332): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(333): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(399): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: consulte a declaração de '_sleep'
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\consoleapplication3.cpp(445): warning C4244: '=': conversão de 'NS_ALGO_MED_INDEX' para 'int', possível perda de dados
+  ConsoleApplication3.vcxproj -> C:\Users\Rodrigo\Documents\01. Neurosky\EEG3\x64\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Rodrigo\Documents\01. Neurosky\EEG3\x64\Debug\ConsoleApplication3.pdb (Partial PDB)

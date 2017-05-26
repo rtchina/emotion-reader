@@ -1,0 +1,22 @@
+﻿  ConsoleApplication3.cpp
+c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\Platform_Defines.h(118): warning C4005: '_DEBUG': redefinição de macro
+  c:\users\rodrigo\documents\01. neurosky\eeg3\consoleapplication3\Platform_Defines.h(118): note: argumentos de linha de comando:  consulte a definição anterior de '_DEBUG'
+ConsoleApplication3.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: consulte a declaração de 'strcpy'
+ConsoleApplication3.cpp(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: consulte a declaração de 'strcpy'
+ConsoleApplication3.cpp(205): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdlib.h(1271): note: consulte a declaração de '_sleep'
+ConsoleApplication3.cpp(331): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+ConsoleApplication3.cpp(332): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+ConsoleApplication3.cpp(333): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+ConsoleApplication3.cpp(399): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdlib.h(1271): note: consulte a declaração de '_sleep'
+ConsoleApplication3.cpp(445): warning C4244: '=': conversão de 'NS_ALGO_MED_INDEX' para 'int', possível perda de dados
+LINK : warning LNK4075: ignorando '/INCREMENTAL' devido a especificação '/LTCG'
+  Gerando código
+  6 of 436 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  ConsoleApplication3.vcxproj -> C:\Users\Rodrigo\Documents\01. Neurosky\EEG3\x64\Release\ConsoleApplication3.exe
